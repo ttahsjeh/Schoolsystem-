@@ -1,3 +1,8 @@
+//MOKUA CALVIN
+//SMOKOG2211.
+//SCHOOL SYSTEM ASSIGNMENT.
+
+
 import java.util.ArrayList;
 import java.util.Scanner;
 
